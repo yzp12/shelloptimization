@@ -188,7 +188,7 @@ int main(int argc, char *argv[])
 	shift0 = processNo * 0.001;
 	shift1 = (processNo + 1) * 0.001;
 
-	mpfr::mpreal::set_default_prec(256);
+	//mpfr::mpreal::set_default_prec(256);
 
 	std::ifstream streamfile("0_square.txt");
 	if (!streamfile)

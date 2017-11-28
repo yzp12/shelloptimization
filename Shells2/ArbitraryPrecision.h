@@ -2,12 +2,12 @@
 #define ARBITRARYPRECISION_H
 
 #include <Eigen/Core>
-#include "unsupported/Eigen/MPRealSupport"
+//#include "unsupported/Eigen/MPRealSupport"
 
 
-typedef mpfr::mpreal scalar;
+//typedef mpfr::mpreal scalar;
 
-//typedef double scalar;
+typedef double scalar;
 
 typedef Eigen::Matrix<scalar, 3, 1> Vector3m;
 typedef Eigen::Matrix<scalar, 2, 1> Vector2m;
