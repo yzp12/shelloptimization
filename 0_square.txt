@@ -1,0 +1,4 @@
+/u/ziwei95/shelloptimization/centers_0_square.dat
+/u/ziwei95/shelloptimization/faces_0_square.dat
+/u/ziwei95/shelloptimizationconformal_0_square.dat
+/u/ziwei95/shelloptimization/square
